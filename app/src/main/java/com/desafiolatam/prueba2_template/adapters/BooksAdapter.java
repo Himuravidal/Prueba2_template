@@ -33,7 +33,7 @@ public class BooksAdapter {
     }
 
 
-    public static class Viewholder extends RecyclerView.ViewHolder {
+    public class Viewholder extends RecyclerView.ViewHolder {
 
 
         public Viewholder(View itemView) {
